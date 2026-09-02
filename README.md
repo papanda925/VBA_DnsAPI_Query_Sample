@@ -151,3 +151,13 @@ VBA_DnsAPI_Query_Sample/
 - [DnsRecordListFree macro - Microsoft Learn](https://learn.microsoft.com/windows/win32/api/windns/nf-windns-dnsrecordlistfree)
 - [DNS_FREE_TYPE enumeration - Microsoft Learn](https://learn.microsoft.com/windows/win32/api/windns/ne-windns-dns_free_type)
 - [InetNtopW function - Microsoft Learn](https://learn.microsoft.com/windows/win32/api/ws2tcpip/nf-ws2tcpip-inetntopw)
+
+## papanda925のネットワーク学習シリーズ
+
+本リポジトリは、Excel VBAからWindowsのネットワーク機能を学ぶ教材シリーズの一つです。DNSだけでなく、HTTP、Ping、Traceroute、IPv6 TCP/UDPのサンプルも公開しています。
+
+シリーズの一覧と推奨学習順序は、[papanda925 GitHubプロフィール](https://github.com/papanda925)を参照してください。技術記事は[papanda925.com](https://papanda925.com/)で公開しています。
+
+## ライセンス
+
+この教材は[MIT License](LICENSE)で公開しています。学習、授業、社内研修、改変、再配布に利用できます。再利用する場合は、著作権表示とライセンス文を残してください。ソフトウェアは無保証です。
